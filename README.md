@@ -1,4 +1,6 @@
-# This source code showing my solution to the assigment Basic of Proteomics
+# Protein Sequence extraction result analysis
+In this repo, I analyzed the protein sequence extracted by using 2 tools Javelin and Skeleton-productions of [Bionsight](https://www.bionsight.com/platform/).
+ Based on the analyzed result I can conclude which tool gave a better performance in finding protein sequence.
 
 ## Installation
 Create new environment with python=3.11
